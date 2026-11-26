@@ -1,5 +1,7 @@
 # Ex.No:06 JavaScript Calculator
-## Date:26/11/2026
+
+## Date: 26/11/2026
+
 ## AIM
 
 To design and develop a simple calculator using HTML, CSS, and JavaScript to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -18,8 +20,8 @@ To design and develop a simple calculator using HTML, CSS, and JavaScript to per
 10. Test the calculator with different arithmetic operations.
 
 ## PROGRAM
-````html
-````
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -200,11 +202,8 @@ To design and develop a simple calculator using HTML, CSS, and JavaScript to per
 ```
 
 ## OUTPUT
+
 ![Output](calculator%20output.png.png)
-
-## RESULT
-
-Thus, a JavaScript-based calculator was successfully designed and developed to perform basic arithmetic operations using HTML, CSS, and JavaScript.
 
 ## RESULT
 
