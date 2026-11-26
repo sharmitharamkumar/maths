@@ -18,6 +18,8 @@ To design and develop a simple calculator using HTML, CSS, and JavaScript to per
 10. Test the calculator with different arithmetic operations.
 
 ## PROGRAM
+````html
+````
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -195,7 +197,7 @@ To design and develop a simple calculator using HTML, CSS, and JavaScript to per
   </script>
 </body>
 </html>
-
+```
 
 ## OUTPUT
 ![Output](calculator%20output.png.png)
